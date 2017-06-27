@@ -1,6 +1,6 @@
 require "rails-assets-selectize/version"
 
-require "rails-assets-jquery"
+#require "rails-assets-jquery"
 require "rails-assets-sifter"
 require "rails-assets-microplugin"
 
